@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **😸 Muhammad Rafli** | **📍 Yogyakarta, Indonesia**
 
-I'm Rafli. I'm currenyly studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. I like to try new things. Right now, i'm interested in web development, especially front-end web development. my favorite framework right now is **react** ⚛. Nice to meet you! 😸
+I'm Rafli. I'm currently studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. I like to try new things. Right now, i'm interested in web development, especially front-end web development. my favorite framework right now is **react** ⚛. Nice to meet you! 😸
 
 ### My frequently used tech stack:
 
