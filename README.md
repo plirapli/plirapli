@@ -16,7 +16,7 @@ I'm Rafli. I'm currently studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. I
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plirapli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plirapli&layout=compact)](https://github.com/plirapli/)
 
 ###  Links
 
