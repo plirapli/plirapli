@@ -21,7 +21,9 @@ Currently studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. Like to try new 
 ###  🔗 How to reach me
 
 **[My Personal Website](https://plirapli.vercel.app/)**
+
 **[LinkedIn](https://www.linkedin.com/in/mrafli/)**
+
 **[Email](mailto:mrafli.work@gmail.com)**
 
 Thank you 🙏🏼
