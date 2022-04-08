@@ -4,7 +4,7 @@
 
 Currently studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. Like to try new things related to tech, especially web development. Love and hate relationship with react.
 
-### 💻 Tech Stack:
+###  💻 Tech Stack:
 
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.com/) [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
@@ -18,8 +18,10 @@ Currently studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. Like to try new 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plirapli&theme=material-palenight&layout=compact)](https://github.com/plirapli/)
 
-###  🔗 Links
+###  🔗 How to reach me
 
 **[My Personal Website](https://plirapli.vercel.app/)**
+**[LinkedIn](https://www.linkedin.com/in/mrafli/)**
+**[Email](mailto:mrafli.work@gmail.com)**
 
-**Thank you** 🙏🏼
+Thank you 🙏🏼
