@@ -2,7 +2,7 @@
 
 **Muhammad Rafli** | **Yogyakarta, Indonesia**
 
-Currently studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. Like to try new things related to tech, especially web development. Love and hate relationship with react.
+Love and hate relationship with react.
 
 ###  💻 Tech Stack:
 
@@ -26,4 +26,4 @@ Currently studying on UPN "Veteran" Yogyakarta 👨🏼‍🎓. Like to try new 
 
 **[Email](mailto:mrafli.work@gmail.com)**
 
-Thank you 🙏🏼
+Thank you
