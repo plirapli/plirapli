@@ -18,12 +18,8 @@ Love and hate relationship with react.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plirapli&theme=material-palenight&layout=compact)](https://github.com/plirapli/)
 
-###  🔗 How to reach me
+###  ✉ How to reach me
 
-**[My Personal Website](https://plirapli.vercel.app/)**
-
-**[LinkedIn](https://www.linkedin.com/in/mrafli/)**
-
-**[Email](mailto:mrafli.work@gmail.com)**
+**[My Website](https://plirapli.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/mrafli/)** | **[Email](mailto:mrafli.work@gmail.com)**
 
 Thank you
