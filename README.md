@@ -10,7 +10,7 @@ Love and hate relationship with react.
 
 ###  📋 Stats
 
-[![Top Langs](https://github-readme-stats-plirapli.vercel.app/api/top-langs/?username=plirapli&theme=material-palenight&compact=true&layout=compact)](https://github.com/plirapli/)
+[![Top Langs](https://github.com/PencilNavigator/readme-stats-URL/api/top-langs/?username=plirapli&theme=material-palenight&compact=true&layout=compact)](https://github.com/plirapli/)
 
 ###  ✉ How to reach me
 
