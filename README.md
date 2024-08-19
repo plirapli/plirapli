@@ -6,7 +6,7 @@ Love and hate relationship with react.
 
 ###  💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,express,mysql,figma,ai)](https://github.com/plirapli/)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,express,figma)](https://github.com/plirapli/)
 
 ###  📋 Stats
 
