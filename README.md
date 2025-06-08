@@ -2,8 +2,6 @@
 
 **Muhammad Rafli** | **Yogyakarta, Indonesia**
 
-Love and hate relationship with react.
-
 ###  💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,vue,express)](https://github.com/plirapli/)
