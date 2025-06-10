@@ -4,7 +4,7 @@
 
 ###  💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,vue,express)](https://github.com/plirapli/)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,vue,astro,express)](https://github.com/plirapli/)
 
 ###  📋 Stats
 
